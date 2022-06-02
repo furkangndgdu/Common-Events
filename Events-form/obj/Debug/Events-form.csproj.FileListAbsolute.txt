@@ -1,0 +1,11 @@
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\obj\Debug\Events-form.csproj.AssemblyReference.cache
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\obj\Debug\Events-form.csproj.SuggestedBindingRedirects.cache
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\obj\Debug\Events_form.Form1.resources
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\obj\Debug\Events_form.Properties.Resources.resources
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\obj\Debug\Events-form.csproj.GenerateResource.cache
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\obj\Debug\Events-form.csproj.CoreCompileInputs.cache
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\bin\Debug\Events-form.exe.config
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\bin\Debug\Events-form.exe
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\bin\Debug\Events-form.pdb
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\obj\Debug\Events-form.exe
+C:\Users\gundo\OneDrive\Masaüstü\Events-form\Events-form\obj\Debug\Events-form.pdb
